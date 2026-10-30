@@ -1,0 +1,229 @@
+{
+  "kisan_samriddhi_yojana.pdf": {
+    "scheme_name": {
+      "value": "Kisan Samriddhi Support Yojana (Synthetic)",
+      "evidence_quote": "Kisan Samriddhi Support Yojana (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "department": {
+      "value": "Department of Agriculture & Farmers Welfare (Synthetic)",
+      "evidence_quote": "Department of Agriculture & Farmers Welfare (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_type": {
+      "value": "Direct Cash Transfer",
+      "evidence_quote": "Direct Cash Transfer",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "value": "Rs. 6,000 per year",
+      "evidence_quote": "guaranteed financial assistance of Rs. 6,000 per year",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "value": "Annual, paid in three equal installments of Rs. 2,000 every four months",
+      "evidence_quote": "benefit frequency is Annual, disbursed in three equal installments of Rs. 2,000 every four months",
+      "page": 1,
+      "status": "found"
+    },
+    "eligibility_conditions": {
+      "value": "Small and marginal farmers owning cultivable agricultural land up to 2 hectares, subject to the additional eligibility and exclusion conditions stated in the PDF",
+      "evidence_quote": "Small and marginal farmers owning cultivable agricultural land up to 2 hectares as per official land records",
+      "page": 1,
+      "status": "found"
+    },
+    "required_documents": {
+      "value": "Aadhaar Card, Land Ownership Record (Khatauni or Khasra certificate), and active bank account passbook with IFSC code",
+      "evidence_quote": "Aadhaar Card (mandatory identity proof)",
+      "page": 1,
+      "status": "found"
+    },
+    "application_procedure": {
+      "value": "Official web portal or local Common Service Centre (CSC); the Block Agriculture Officer verifies field claims within 21 working days of submission",
+      "evidence_quote": "submit applications through the official web portal or visit their local Common Service Centre (CSC)",
+      "page": 1,
+      "status": "found"
+    },
+    "deadline": {
+      "value": "31 March 2025",
+      "evidence_quote": "final deadline for enrolling under the current fiscal cycle is 31 March 2025",
+      "page": 1,
+      "status": "found"
+    },
+    "official_link": {
+      "value": "https://synthetic-portal.gov.in/schemes/kisan-samriddhi",
+      "evidence_quote": "https://synthetic-portal.gov.in/schemes/kisan-samriddhi",
+      "page": 1,
+      "status": "found"
+    }
+  },
+  "kisan_samriddhi_revised_circular.pdf": {
+    "scheme_name": {
+      "value": "Kisan Samriddhi Support Yojana (Synthetic)",
+      "evidence_quote": "Kisan Samriddhi Support Yojana (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "department": {
+      "value": "Department of Agriculture & Farmers Welfare (Synthetic)",
+      "evidence_quote": "Department of Agriculture & Farmers Welfare (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_type": {
+      "value": "Cash Transfer",
+      "evidence_quote": "Direct Benefit Transfer (Cash Transfer)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "value": "Rs. 8,000 per year",
+      "evidence_quote": "financial assistance is hereby revised to Rs. 8,000 per year",
+      "page": 1,
+      "status": "conflict"
+    },
+    "benefit_frequency": {
+      "value": "Quarterly",
+      "evidence_quote": "revised benefit frequency shall be four quarterly installments",
+      "page": 1,
+      "status": "conflict"
+    },
+    "deadline": {
+      "value": "30 June 2025",
+      "evidence_quote": "extended the application deadline to 30 June 2025",
+      "page": 1,
+      "status": "conflict"
+    },
+    "official_link": {
+      "value": "https://synthetic-portal.gov.in/schemes/kisan-samriddhi",
+      "evidence_quote": "https://synthetic-portal.gov.in/schemes/kisan-samriddhi",
+      "page": 1,
+      "status": "found"
+    }
+  },
+  "mahila_swavalamban_yojana.pdf": {
+    "scheme_name": {
+      "value": "महिला स्वावलंबन स्वरोजगार योजना (सिंथेटिक)",
+      "evidence_quote": "महिला स्वावलंबन स्वरोजगार योजना (सिंथेटिक)",
+      "page": 1,
+      "status": "found"
+    },
+    "department": {
+      "value": "महिला एवं बाल विकास विभाग (सिंथेटिक)",
+      "evidence_quote": "महिला एवं बाल विकास विभाग (सिंथेटिक)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_type": {
+      "value": "Subsidy",
+      "evidence_quote": "पूंजीगत सब्सिडी (Subsidy)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "value": "रु 50,000",
+      "evidence_quote": "रु 50,000 की पूंजीगत सब्सिडी",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "value": "One-time",
+      "evidence_quote": "एकमुश्त (One-time)",
+      "page": 1,
+      "status": "found"
+    },
+    "eligibility_conditions": {
+      "value": [
+        "आवेदक महिला की आयु 18 से 50 वर्ष के मध्य होनी चाहिए",
+        "परिवार की कुल वार्षिक आय रु 1,50,000 से अधिक नहीं होनी चाहिए",
+        "स्वयं सहायता समूह (SHG) की सक्रिय सदस्य होनी चाहिए"
+      ],
+      "evidence_quote": "आवेदक महिला की आयु 18 से 50 वर्ष के मध्य होनी चाहिए",
+      "page": 1,
+      "status": "found"
+    },
+    "required_documents": {
+      "value": [
+        "आधार कार्ड",
+        "पारिवारिक आय प्रमाण पत्र",
+        "मूल निवास प्रमाण पत्र",
+        "बैंक खाता पासबुक की प्रति"
+      ],
+      "evidence_quote": "आधार कार्ड",
+      "page": 1,
+      "status": "found"
+    },
+    "application_procedure": {
+      "value": "आवेदन पत्र जिला महिला कल्याण अधिकारी कार्यालय अथवा ग्राम पंचायत विकास केंद्र में जमा करें",
+      "evidence_quote": "जिला महिला कल्याण अधिकारी कार्यालय अथवा ग्राम पंचायत विकास केंद्र में जमा",
+      "page": 1,
+      "status": "found"
+    },
+    "deadline": {
+      "value": null,
+      "evidence_quote": null,
+      "page": null,
+      "status": "not_found",
+      "expected_missing": true,
+      "rationale": "No enrollment deadline specified in document"
+    },
+    "official_link": {
+      "value": null,
+      "evidence_quote": null,
+      "page": null,
+      "status": "not_found",
+      "expected_missing": true,
+      "rationale": "No official link provided in document"
+    }
+  },
+  "yuva_kaushal_scanned.pdf": {
+    "scheme_name": {
+      "value": "Yuva Kaushal Stipend Program (Synthetic)",
+      "evidence_quote": "Yuva Kaushal Stipend Program (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "department": {
+      "value": "Ministry of Skill Development and Entrepreneurship (Synthetic)",
+      "evidence_quote": "Ministry of Skill Development and Entrepreneurship (Synthetic)",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_type": {
+      "value": "Skill / Training",
+      "evidence_quote": "Skill / Training",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_amount": {
+      "value": "Rs. 3,500 monthly stipend",
+      "evidence_quote": "Rs. 3,500 monthly stipend during training",
+      "page": 1,
+      "status": "found"
+    },
+    "benefit_frequency": {
+      "value": "Monthly",
+      "evidence_quote": "benefit frequency is Monthly",
+      "page": 1,
+      "status": "found"
+    },
+    "deadline": {
+      "value": "15 December 2025",
+      "evidence_quote": "ENROLLMENT DEADLINE: 15 December 2025",
+      "page": 1,
+      "status": "found"
+    },
+    "official_link": {
+      "value": null,
+      "evidence_quote": null,
+      "page": null,
+      "status": "not_found",
+      "expected_missing": true,
+      "rationale": "No web portal link in physical scanned bulletin"
+    }
+  }
+}

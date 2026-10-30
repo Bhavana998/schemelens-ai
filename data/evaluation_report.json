@@ -1,0 +1,106 @@
+{
+  "total_documents_evaluated": 4,
+  "overall_field_accuracy": {
+    "name": "Overall Field Accuracy",
+    "numerator": 31,
+    "denominator": 31,
+    "value": 1.0,
+    "description": "Exact/strong normalized match across all ground-truth fields where facts exist."
+  },
+  "amount_and_deadline_accuracy": {
+    "name": "High-Risk Amount and Deadline Accuracy",
+    "numerator": 7,
+    "denominator": 7,
+    "value": 1.0,
+    "description": "Accuracy specifically on benefit_amount and deadline fields."
+  },
+  "evidence_quotation_rate": {
+    "name": "Evidence Quotation Verification Rate",
+    "numerator": 31,
+    "denominator": 31,
+    "value": 1.0,
+    "description": "Percentage of extracted evidence quotations verified verbatim in document text."
+  },
+  "page_reference_accuracy": {
+    "name": "Page Reference Accuracy",
+    "numerator": 31,
+    "denominator": 31,
+    "value": 1.0,
+    "description": "Percentage of citations referencing the exact correct page number."
+  },
+  "missing_field_metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "true_positives": 3.0,
+    "false_positives": 0.0,
+    "false_negatives": 0.0
+  },
+  "conflict_detection_metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "conflicts_detected": 3,
+    "false_alarms": 0,
+    "missed_conflicts": 0
+  },
+  "field_breakdown": {
+    "scheme_name": {
+      "correct": 4,
+      "total": 4,
+      "evidence_verified": 4
+    },
+    "department": {
+      "correct": 4,
+      "total": 4,
+      "evidence_verified": 4
+    },
+    "benefit_type": {
+      "correct": 4,
+      "total": 4,
+      "evidence_verified": 4
+    },
+    "benefit_amount": {
+      "correct": 4,
+      "total": 4,
+      "evidence_verified": 4
+    },
+    "benefit_frequency": {
+      "correct": 4,
+      "total": 4,
+      "evidence_verified": 4
+    },
+    "eligibility_conditions": {
+      "correct": 2,
+      "total": 2,
+      "evidence_verified": 2
+    },
+    "required_documents": {
+      "correct": 2,
+      "total": 2,
+      "evidence_verified": 2
+    },
+    "application_procedure": {
+      "correct": 2,
+      "total": 2,
+      "evidence_verified": 2
+    },
+    "deadline": {
+      "correct": 3,
+      "total": 3,
+      "evidence_verified": 3
+    },
+    "official_link": {
+      "correct": 2,
+      "total": 2,
+      "evidence_verified": 2
+    }
+  },
+  "proposed_pilot_quality_gates": {
+    "Benefit Amount Verification Gate": "100% human review required if quotation unverified or conflict detected.",
+    "Eligibility Conditions Gate": "Zero unverified eligibility clauses allowed into approved records.",
+    "Deadline Expiration Gate": "Automated alert if deadline is past or conflicting between circulars.",
+    "Missing Field Threshold": "Automated prompt to search supplementary government gazette when >=3 core fields missing.",
+    "Reviewer Audit Trail": "All field corrections must record reviewer ID, rationale, and timestamp."
+  }
+}
